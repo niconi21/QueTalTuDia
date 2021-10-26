@@ -8,10 +8,10 @@
     <string name="btn_enviar">Enviar</string>
     <string name="title_activity_mensaje">MensajeActivity</string>
 
-    <string name="resp_excelente">!Qué buena noticia¡</string>
+    <string name="resp_excelente">¡Qué buena noticia!</string>
     <string name="resp_buena">Seguro que mañana será excelente</string>
     <string name="resp_malo">!Vamos¡ que no decaiga</string>
-    <string name="resp_pesimo">!Arriba ese ánimo¡</string>
+    <string name="resp_pesimo">¡Arriba ese ánimo!</string>
 
     <string name="sin_respuesta">No hay una opción seleccionada</string>
 </resources>
